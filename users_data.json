@@ -1,0 +1,26 @@
+[
+  {
+    "username": "admin",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "nama_lengkap": "Administrator",
+    "role": "admin",
+    "email": "admin@mahasiswa.com",
+    "created_at": "2025-12-15T17:59:02.157752"
+  },
+  {
+    "username": "user",
+    "password": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+    "nama_lengkap": "User Biasa",
+    "role": "user",
+    "email": "user@mahasiswa.com",
+    "created_at": "2025-12-15T17:59:02.157752"
+  },
+  {
+    "username": "rasyid",
+    "password": "0b8f1bf4b0a02d0c9c9fb56e32bde3afcc8b0667c8350a85b2022fb59050a522",
+    "nama_lengkap": "Ahmad Rasyid",
+    "email": "rasyid@testmail.com",
+    "role": "user",
+    "created_at": "2025-12-15T18:25:52.171956"
+  }
+]

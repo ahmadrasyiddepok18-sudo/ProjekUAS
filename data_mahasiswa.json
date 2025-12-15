@@ -1,0 +1,110 @@
+[
+  {
+    "nama": "Ahmad Rasyid",
+    "nim": "241011400000",
+    "jurusan": "Teknik Informatika",
+    "email": "rasyid@example.com",
+    "tahun_masuk": 2023,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:28:12"
+  },
+  {
+    "nama": "Ahmad Rasyid",
+    "nim": "241011400010",
+    "jurusan": "Teknik Informatika",
+    "email": "rasyid@example.com",
+    "tahun_masuk": 2023,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:28:19"
+  },
+  {
+    "nama": "Siti Nurhaliza",
+    "nim": "221012001234",
+    "jurusan": "Teknik Informatika",
+    "email": "siti.nurhaliza@example.com",
+    "tahun_masuk": 2022,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:30:00"
+  },
+  {
+    "nama": "Budi Santoso",
+    "nim": "231010400567",
+    "jurusan": "Sistem Informasi",
+    "email": "budi.santoso@example.com",
+    "tahun_masuk": 2023,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:30:15"
+  },
+  {
+    "nama": "Dewi Lestari",
+    "nim": "201008001890",
+    "jurusan": "Teknik Komputer",
+    "email": "dewi.lestari@example.com",
+    "tahun_masuk": 2020,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:30:30"
+  },
+  {
+    "nama": "Rinto Harahap",
+    "nim": "231011002345",
+    "jurusan": "Teknik Informatika",
+    "email": "rinto.harahap@example.com",
+    "tahun_masuk": 2023,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:30:45"
+  },
+  {
+    "nama": "Mega Kusuma",
+    "nim": "221009003456",
+    "jurusan": "Sistem Informasi",
+    "email": "mega.kusuma@example.com",
+    "tahun_masuk": 2022,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:31:00"
+  },
+  {
+    "nama": "Fajar Ramadhan",
+    "nim": "211007004567",
+    "jurusan": "Teknik Komputer",
+    "email": "fajar.ramadhan@example.com",
+    "tahun_masuk": 2021,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:31:15"
+  },
+  {
+    "nama": "Lisa Gunawan",
+    "nim": "231012005678",
+    "jurusan": "Teknik Informatika",
+    "email": "lisa.gunawan@example.com",
+    "tahun_masuk": 2023,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:31:30"
+  },
+  {
+    "nama": "Hendra Wijaya",
+    "nim": "201010006789",
+    "jurusan": "Sistem Informasi",
+    "email": "hendra.wijaya@example.com",
+    "tahun_masuk": 2020,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:31:45"
+  },
+  {
+    "nama": "Citra Dewi",
+    "nim": "221011007890",
+    "jurusan": "Teknik Informatika",
+    "email": "citra.dewi@example.com",
+    "tahun_masuk": 2022,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:32:00"
+  },
+  {
+    "nama": "Adi Pratama",
+    "nim": "231013008901",
+    "jurusan": "Teknik Komputer",
+    "email": "adi.pratama@example.com",
+    "tahun_masuk": 2023,
+    "status": "aktif",
+    "tanggal_dibuat": "2025-12-15 18:32:15"
+  }
+]
